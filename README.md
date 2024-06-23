@@ -10,11 +10,17 @@ This program supports four different sorting methods: insertion sort, merge sort
 DIRECTORY:
 
 bin/	  executable binary
+
 doc/	  reports
+
 inputs/   input data (unsorted)
+
 outputs/  output result (sorted)
+
 lib/	  library
+
 src/ 	  source C++ codes
+
 utility/  checker
 
 **HOW TO CIMPILE**
