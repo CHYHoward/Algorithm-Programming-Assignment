@@ -1,13 +1,12 @@
-This is README file for Algorithm PA#1
-Author: <B10901163 張顥譽>
-Date:
-=====
+## This is README file for Algorithm PA#1
+## Author: <B10901163 張顥譽>
+
 SYNOPSIS:
 
 NTU_sort -[IS|MS|QS|HS] <input_file_name> <output_file_name>
 
 This program supports four different sorting methods: insertion sort, merge sort, quick sort and heap sort.
-=====
+
 DIRECTORY:
 
 bin/	  executable binary
@@ -17,11 +16,12 @@ outputs/  output result (sorted)
 lib/	  library
 src/ 	  source C++ codes
 utility/  checker
-======
+
 **HOW TO CIMPILE**
+
 Then compile the demo, simply follow the following steps
 	make
-======
+
 **HOW TO RUN:**
 
 	cd bin/
