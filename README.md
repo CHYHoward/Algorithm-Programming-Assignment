@@ -1,7 +1,7 @@
 ## This is README file for Algorithm PA#1
 ## Author: <B10901163 張顥譽>
 ## The assignment instruction is in doc file  
-SYNOPSIS:
+
 
 NTU_sort -[IS|MS|QS|HS] <input_file_name> <output_file_name>
 
